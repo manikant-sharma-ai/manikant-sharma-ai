@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Manikant Sharma</h1>
+<p align="center"><b>AI specialist</b> &middot; I build AI agents, the skills that run them, and the products around them.</p>
 
-<!--
-**gmailonecom-dot/gmailonecom-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an AI specialist. I take a repetitive, manual job and turn it into something
+an agent runs end to end — then ship the product around it. Most of my work is
+agent skills, connector integrations, and the small web apps that make them
+useful.
+
+### Featured projects
+
+| Project | What it is |
+| --- | --- |
+| **[social-media-manager-skill](https://github.com/gmailonecom-dot/social-media-manager-skill)** | An agent skill that runs social media end to end: it finds which social connectors are available, keeps a knowledge base of your brand voice and past posts, and plans, writes, humanises, schedules and reports across every major platform. |
+| **[x-agent-skill](https://github.com/gmailonecom-dot/x-agent-skill)** | Eleven agent skills that run an X (Twitter) account — hook formulas with a scored hook, a thread builder, reply triage, an engagement finder, a weekly planner, an analytics reader and more. |
+| **[truepick](https://github.com/gmailonecom-dot/truepick)** | A fully virtual affiliate storefront: curated, price-checked products with customisable buy buttons that send visitors straight to Amazon or Flipkart. |
+| **[portfolio](https://github.com/gmailonecom-dot/portfolio)** | Personal portfolio site — AI & business solutions. |
+
+### What I work with
+
+Agent skills & tooling · AI / LLM workflows · connector integrations · HTML & JavaScript · Netlify (Functions + Blobs).
+
+### How I work
+
+- Start from the real job to be done, not the tool.
+- Build it end to end and actually run it before calling it done.
+- Keep it honest: no invented numbers, no black boxes.
+
+### Get in touch
+
+- GitHub: [@gmailonecom-dot](https://github.com/gmailonecom-dot)
