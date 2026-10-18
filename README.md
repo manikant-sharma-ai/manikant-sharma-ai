@@ -14,10 +14,9 @@ useful.
 
 | Project | What it is |
 | --- | --- |
-| **[social-media-manager-skill](https://github.com/gmailonecom-dot/social-media-manager-skill)** | An agent skill that runs social media end to end: it finds which social connectors are available, keeps a knowledge base of your brand voice and past posts, and plans, writes, humanises, schedules and reports across every major platform. |
-| **[x-agent-skill](https://github.com/gmailonecom-dot/x-agent-skill)** | Eleven agent skills that run an X (Twitter) account — hook formulas with a scored hook, a thread builder, reply triage, an engagement finder, a weekly planner, an analytics reader and more. |
-| **[truepick](https://github.com/gmailonecom-dot/truepick)** | A fully virtual affiliate storefront: curated, price-checked products with customisable buy buttons that send visitors straight to Amazon or Flipkart. |
-| **[portfolio](https://github.com/gmailonecom-dot/portfolio)** | Personal portfolio site — AI & business solutions. |
+| **[social-media-manager-skill](https://github.com/manikant-sharma-ai/social-media-manager-skill)** | An agent skill that runs social media end to end: it finds which social connectors are available, keeps a knowledge base of your brand voice and past posts, and plans, writes, humanises, schedules and reports across every major platform. |
+| **[truepick](https://github.com/manikant-sharma-ai/truepick)** | A fully virtual affiliate storefront: curated, price-checked products with customisable buy buttons that send visitors straight to Amazon or Flipkart. |
+| **[portfolio](https://github.com/manikant-sharma-ai/portfolio)** | Personal portfolio site — AI & business solutions. |
 
 ### What I work with
 
@@ -31,4 +30,4 @@ Agent skills & tooling · AI / LLM workflows · connector integrations · HTML &
 
 ### Get in touch
 
-- GitHub: [@gmailonecom-dot](https://github.com/gmailonecom-dot)
+- GitHub: [@manikant-sharma-ai](https://github.com/manikant-sharma-ai)
